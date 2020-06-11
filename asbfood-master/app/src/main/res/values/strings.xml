@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">dcu2</string>
+    <string name="foodname_1_1">잡곡밥</string>
+    <string name="foodprice_1_1">500원</string>
+</resources>
